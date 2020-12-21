@@ -6,4 +6,4 @@
 
 java -jar target/headlines-0.0.1-SNAPSHOT.jar --weatherapp.url=http://localhost:8080/weather/v1/today/
 
-visit http://localhost:8080/swagger-ui.html
+#visit http://localhost:8080/swagger-ui.html
