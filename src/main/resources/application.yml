@@ -7,7 +7,7 @@ spring:
 grpc:
   client:
     local-grpc-server:
-      address: 'static://jobs:8002'
+      address: 'static://jobs:8002' #must be changed to localhost for testing
       enableKeepAlive: true
       keepAliveWithoutCalls: true
       negotiationType: plaintext
